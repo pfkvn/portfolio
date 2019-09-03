@@ -1,5 +1,5 @@
-# My port
+# TrySomeCalculations
 
-This is basically a test...
-
+I am trying to figure out how the VS Code works in cooperation with github,
+while learning to Python.
   
